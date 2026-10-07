@@ -47,6 +47,10 @@ Curated and maintained by [**Trade Vectors**](https://tradevectors.com) — Mumb
 - **[pandas-ta](https://github.com/twopirllc/pandas-ta)** — Technical Analysis indicators for Pandas
 - **[nsepy](https://github.com/swapniljariwala/nsepy)** — NSE historical data library
 
+### Indian Trading Costs
+
+* [indian-trading-charges](https://github.com/Quantwala/indian-trading-charges) — MIT-licensed Python estimates for NSE/BSE brokerage, STT, GST, stamp duty and exchange charges across equity delivery, intraday, futures and options; includes a reproducible gross-versus-net ledger example.
+
 ### Broker APIs (Python)
 - **[kiteconnect](https://github.com/zerodha/pykiteconnect)** — Zerodha Kite Connect Python client
 - **[upstox-python](https://github.com/upstox/upstox-python)** — Upstox official Python SDK
