@@ -34,7 +34,7 @@ Curated and maintained by [**Trade Vectors**](https://tradevectors.com) — Mumb
 | Samco | Samco API | Python | NSE, BSE |
 | Interactive Brokers | TWS API | Python, Java, C++ | Global + NSE |
 | Dhan | Dhan API | Python | NSE, BSE |
-
+| Nubra | Nubra API | Python | NSE, BSE, MCX |
 ---
 
 ## Python Libraries
@@ -52,6 +52,7 @@ Curated and maintained by [**Trade Vectors**](https://tradevectors.com) — Mumb
 - **[upstox-python](https://github.com/upstox/upstox-python)** — Upstox official Python SDK
 - **[smartapi-python](https://github.com/angel-one/smartapi-python)** — Angel One SmartAPI Python SDK
 - **[fyers-apiv3](https://github.com/fyers-api/fyers-api-py)** — Fyers API Python library
+- **[nubra-sdk](https://pypi.org/project/nubra-sdk/)** — Nubra official Python SDK
 
 ### Trading & Execution
 - **[ib-insync](https://github.com/erdewit/ib_insync)** — Interactive Brokers TWS API wrapper
